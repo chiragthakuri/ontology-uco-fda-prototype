@@ -4,7 +4,7 @@
 
 ### Under UCO’s `CourseOfAction`:
 - **CybersecurityControl** (Subclass)
-  ↳ **CybersecurityControl**  
+  
   ↳ **AuthenticationControl**  
   ↳ **AuthorizationControl**  
   ↳ **CryptographyControl**  
