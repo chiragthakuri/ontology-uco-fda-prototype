@@ -92,7 +92,7 @@ I modeled **interoperability** as a relationship between **products**, which is 
 **Range (Points to):** Product  
 **Purpose:** To formally state that one product (e.g., a medical device) can safely exchange and use information with another product (e.g., an EMR system or another medical device).
 
-###OntoGraf
+### OntoGraf
 <img width="1696" height="640" alt="image" src="https://github.com/user-attachments/assets/dc53acbf-7692-4b33-97de-1ede7168e852" />
 
 
