@@ -4,17 +4,15 @@
 
 ### Under UCO’s `CourseOfAction`:
 - **CybersecurityControl** (Subclass)
-  - **PreventativeControl**
-  - **DetectiveControl**
-  - **CorrectiveControl**
-  - **AuthenticationControl**  
-  - **AuthorizationControl**  
-  - **CryptographyControl**  
-  - **IntegrityControl**  
-  - **ConfidentialityControl**  
-  - **EventDetectionAndLoggingControl**  
-  - **ResiliencyAndRecoveryControl**  
-  - **UpdatabilityAndPatchabilityControl**
+  ↳ **CybersecurityControl**  
+  ↳ **AuthenticationControl**  
+  ↳ **AuthorizationControl**  
+  ↳ **CryptographyControl**  
+  ↳ **IntegrityControl**  
+  ↳ **ConfidentialityControl**  
+  ↳ **EventDetectionAndLoggingControl**  
+  ↳ **ResiliencyAndRecoveryControl**  
+  ↳ **UpdatabilityAndPatchabilityControl**
 
 ### Under custom class `RegulatedProcess`:
 - **CybersecurityTesting**
