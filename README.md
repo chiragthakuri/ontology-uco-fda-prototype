@@ -25,12 +25,20 @@
 
 ### Under UCO’s `File`:
 - **CybersecurityRiskManagementReport**
+  - **﻿GlobalSystemView**
+  - **MultiPatientHarmView**
+  - **SecurityUseCaseView**
+  - **UpdateabilityPatchabilityView**
+- **CybersecurityArchitectureView**
   - **Cybersecurity Management Plan**
   - **Residual Risk Report**
   - **Risk Acceptance Report**
 - **CybersecurityThreatModel**
-- **CybersecurityThreatModel**
 - **SoftwareBillofMaterials**
+
+## Under UCO's Product  
+**RegulatedSystem** 
+ - **MedicalDevice**
 
 ---
 
