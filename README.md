@@ -25,8 +25,11 @@
 
 ### Under UCO’s `File`:
 - **CybersecurityRiskManagementReport**
+  - **Cybersecurity Management Plan**
+  - **Residual Risk Report**
+  - **Risk Acceptance Report**
 - **CybersecurityThreatModel**
-- **CybersecurityRiskManagementReport**
+- **CybersecurityThreatModel**
 - **SoftwareBillofMaterials**
 
 ---
