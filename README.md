@@ -7,6 +7,14 @@
   - **PreventativeControl**
   - **DetectiveControl**
   - **CorrectiveControl**
+  - **AuthenticationControl**  
+  - **AuthorizationControl**  
+  - **CryptographyControl**  
+  - **IntegrityControl**  
+  - **ConfidentialityControl**  
+  - **EventDetectionAndLoggingControl**  
+  - **ResiliencyAndRecoveryControl**  
+  - **UpdatabilityAndPatchabilityControl**
 
 ### Under custom class `RegulatedProcess`:
 - **CybersecurityTesting**
