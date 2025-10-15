@@ -40,6 +40,16 @@
 **RegulatedSystem** 
  - **MedicalDevice**
 
+ 
+## Under UCO's RegulatedProcess 
+  * CybersecurityRiskAnalysis 
+    * QualitativeRiskAnalysis 
+    * QuantitativeRiskAnalysis   
+  * ManufacturingProcess 
+  * QualityManagementProcess 
+  * ValidationProcess  
+    * CybersecurityTesting 
+
 ---
 
 ## Relationships
